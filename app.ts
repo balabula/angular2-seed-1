@@ -21,5 +21,3 @@ class MyAppComponent {
 
 
 bootstrap(MyAppComponent);
-
-var x = "test"
